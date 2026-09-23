@@ -149,13 +149,7 @@ Technical requirements are flexible:
 * Backend integration is not required
 * Mock/static data is acceptable
 
-The assessment time limit is 2 hours 30 minutes.
 
-Submission requires:
-
-* A live deployed URL accessible without running the project locally
-* A GitHub repository URL
-* README with brief setup/run instructions
 
 For now, do NOT write any code.
 
@@ -260,7 +254,6 @@ Implementation requirements:
 * Use accessible buttons and meaningful labels
 * Avoid excessive animations or features that could waste assessment time
 
-I have only 2 hours and 30 minutes for the assessment, so prioritize the core requirements and visual polish.
 
 Please provide the implementation step by step, starting with the files/components I need to create or modify. Then provide the code for each file.
 
